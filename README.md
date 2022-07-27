@@ -1,3 +1,4 @@
+
 # Note-Taker-Application
 
 ## Project
