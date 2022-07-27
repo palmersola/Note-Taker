@@ -7,5 +7,4 @@ Created a note taking application using starter code. It takes the user's note t
 ## Links
 
 <a href="https://note-taker-app-palmer.herokuapp.com/">Note Taker Application</a>
-
 <a href="https://github.com/palmersola/Note-Taker">GitHub Repo Link</a>
